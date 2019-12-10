@@ -1,1 +1,1 @@
-<h1>My example repo for Data Science Coursera</h1>
+## My example repo for Data Science Coursera
